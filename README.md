@@ -1,4 +1,4 @@
-# IMDB Movies
+# Movies Project
 Making predictions on what makes a good movie.
 
 # Data
