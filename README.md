@@ -4,8 +4,12 @@ Making predictions on what makes a good movie.
 # Data
 ![TMDB attribution logo](https://user-images.githubusercontent.com/112634963/209258631-66d4cefb-d6ca-449b-959a-4e276e820bc5.svg)
 
+
+**This project uses the TMDB API but is not endorsed or certified by TMDB.**
+
 Data was used from multiple sources. 
 Including TMDB and IMDB
+
 
 Data Dictionary:
 https://www.imdb.com/interfaces/
